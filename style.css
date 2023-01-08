@@ -159,6 +159,7 @@ th {
 /* css da página inicial */
 .banner {
   width: 100%;
+  height: 500px;
 }
 
 .titulo-principal {
@@ -275,5 +276,8 @@ th {
   }
   .enviar {
     position: static;
+  }
+  .banner {
+    height: 200px;
   }
 }
