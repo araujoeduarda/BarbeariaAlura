@@ -1,5 +1,5 @@
 
- # Barvearia Alura 
+ # **Barbearia Alura** 
                                         Projeto Prático do Curso Iniciante em Programação Front End da Alura 💈
                                                    
 
