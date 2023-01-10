@@ -5,7 +5,7 @@
 
 # 🔎 **Sobre**
                                               
-<p><strong>Desenvolvi esse site da Barberia Alura como um projeto prático do curso Iniciante em Programação da Alura.</strong><p>
+<p><strong>Desenvolvi o site da Barberia Alura para colocar em prática os conceitos aprendidos no curso Iniciante em Programação da Alura.</strong><p>
 
  <h3 align="center">
  <img src="https://user-images.githubusercontent.com/113942221/211680682-0329996b-89ad-4200-a210-a047af23be38.png" width="320" height="200" alt="Página Inicial">  
