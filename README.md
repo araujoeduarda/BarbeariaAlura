@@ -15,7 +15,7 @@
 
 # ℹ️ **Informações do Projeto**
 
-O projeto possui página inicial, página de de produtos e página de contato. Nele, fiz o uso de fotos e informações fictícias para a "Barbearia Alura".
+O projeto possui [Página Inicial](https://araujoeduarda.github.io/BarbeariaAlura/index.html), [Página de Produtos](https://araujoeduarda.github.io/BarbeariaAlura/produtos.html) e [Página de Contato](https://araujoeduarda.github.io/BarbeariaAlura/contato.html). Nele, fiz o uso de fotos e informações fictícias para a "Barbearia Alura".
 
 
 Pontos Importantes:
