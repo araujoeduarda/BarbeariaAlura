@@ -15,9 +15,7 @@
 
 # ℹ️ **Informações do Projeto**
 
-O projeto possui página inicial, página de de produtos e página de contato. Nele, foram usadas fotos e informações da barbearia fictícia "Barbearia Alura". 
-
-
+O projeto possui página inicial, página de de produtos e página de contato. Nele, fiz o uso de fotos e informações fictícias para a "Barbearia Alura".
 
 
 Pontos Importantes:
