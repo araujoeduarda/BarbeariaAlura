@@ -22,7 +22,7 @@ O projeto possui página inicial, página de de produtos e página de contato. N
 
 Pontos Importantes:
 
-<li>O site é responsivo, otimizado para telas desktop, mobile e de tablet.</li>
+<li>O site é responsivo, otimizado para monitores, celulares e tablets.</li>
 
 
 <li>O formulário de contato, a tabela de horários e a inserção do mapa do local da barbearia foram feitos usando HTML e estilizados com CSS.</li>
