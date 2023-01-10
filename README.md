@@ -34,4 +34,4 @@ Pontos Importantes:
 
 
 # 🌎 **Página do Projeto**
-1. Clique Aqui -> [ Barbearia Alura](https://araujoeduarda.github.io/BarbeariaAlura/index.html)
+1. Clique Aqui -> [Barbearia Alura](https://araujoeduarda.github.io/BarbeariaAlura/index.html)
