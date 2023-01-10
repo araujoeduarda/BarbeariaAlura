@@ -1,6 +1,6 @@
 
  # 💈 **Barbearia Alura** 
-                               Projeto prático do Curso Iniciante em Programação Front-End da Alura. 📚
+<p align="center">Projeto prático do Curso Iniciante em Programação Front-End da Alura. 📚</p>
                                                    
 
 # 🔎 **Sobre**
