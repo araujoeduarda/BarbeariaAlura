@@ -20,8 +20,6 @@ O site possui [Página Inicial](https://araujoeduarda.github.io/BarbeariaAlura/i
 
 Pontos Importantes:
 
-<li>O site é responsivo, otimizado para monitores, celulares e tablets.</li>
-
 
 <li>O formulário de contato, a tabela de horários e a inserção do mapa do local da barbearia foram feitos usando HTML e estilizados com CSS.</li>
 
