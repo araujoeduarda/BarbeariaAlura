@@ -274,6 +274,11 @@ th {
   .imagem-beneficios {
     width: 100%;
   }
+
+  .lista-beneficios {
+    padding-bottom: 20px;
+  }
+
   .enviar {
     position: static;
   }
@@ -284,5 +289,8 @@ th {
 @media screen and (max-width: 300px) {
   nav a {
     font-size: 0.9rem;
+  }
+  .imagem-beneficios {
+    box-shadow: none;
   }
 }
